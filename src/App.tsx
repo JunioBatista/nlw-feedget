@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
-import { Widget } from './components/widget'
+import { Widget } from './components/Widget'
 
 export function App() {
 
