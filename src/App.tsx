@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
+import { Widget } from './components/widget'
 
-function App() {
+export function App() {
 
   return(  
-  <div>
-   <h1> TESTANDO! </h1>
-  </div>)
+     <Widget/>
+  )
 }
 
-export default App
+ 
