@@ -56,7 +56,10 @@ export function WidgetForm() {
                 
 
             <footer className="text-xs text-neutral-400">
-            Perfil <a className="underline underline-offset-2" href="https://github.com"> Github </a>
+
+            Perfil <a className="underline underline-offset-2" href="https://github.com/JunioBatista"> Github </a> |
+            <a className="underline underline-offset-2" href="https://www.linkedin.com/in/junio-batista/"> Linkedin </a>
+
             </footer>
         </div>
     )
